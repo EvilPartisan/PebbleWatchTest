@@ -1,0 +1,21 @@
+{
+    "author": "evilpartisan@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial1",
+    "pebble": {
+        "displayName": "Tutorial1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "7930b28c-6a8d-4720-8c6a-425a4f5bed4d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
